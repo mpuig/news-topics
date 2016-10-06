@@ -1,2 +1,2 @@
-# bookmarks-topics
-Bookmark's topic discovery using LDA (Latent Dirichlet Allocation)
+# news-topics
+News topic discovery using LDA (Latent Dirichlet Allocation)
